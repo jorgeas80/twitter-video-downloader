@@ -7,7 +7,7 @@ requirements = [
 ]
 
 setup(
-    name='twitter-video-downloader',
+    name='twitter_dl',
     version='0.1.0',
     description='Library for Twitter video downloading',
     author='Jorge Arévalo (based on the original scripy by h4ckninja)',
