@@ -1,4 +1,8 @@
-Support the original author [![ko-fi](https://www.ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/h4ckninja)
+Support the original author
+===========================
+
+[![ko-fi](https://www.ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/h4ckninja)
+
 
 Twitter Video Downloader
 ========================
