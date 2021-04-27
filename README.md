@@ -15,7 +15,7 @@ Installation
 
 Python3 is a **must**.
 
-`pip install .`.
+`pip install .`
 
 You will also need [ffmpeg](https://ffmpeg.org/). Install for your operating system of choice.
 
